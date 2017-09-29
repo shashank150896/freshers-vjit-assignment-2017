@@ -1,4 +1,6 @@
 RUBICON RESTAURANT MANAGEMENT SYSTEM
+You can run this program either by using the JAR file(included) or the source code given in the "src" folder.
+The MAVEN extension is also included in this project for future use.
 Step1: As we run the application home window appears.
 Here we need to select any table for arriving customers.
 Let us consider we pressed table 5 button.
