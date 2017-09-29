@@ -1,0 +1,31 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>RubiRestaurantShashank</groupId>
+  <artifactId>RubiRestaurantShashank</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>DVS SHASHANK</name>
+  <description>I developed a java application called rubi_restaurant using swings concept of java.I created 3 application windows one for home window ,second the billing menu and third feedback.
+I tried my best to complete this project taking maximum of the functional requirements mentioned.
+</description>
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+    <resources>
+      <resource>
+        <directory>images</directory>
+        <excludes>
+          <exclude>**/*.java</exclude>
+        </excludes>
+      </resource>
+    </resources>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.3</version>
+        <configuration>
+          <source>1.8</source>
+          <target>1.8</target>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>
