@@ -1,0 +1,58 @@
+RUBICON RESTAURANT MANAGEMENT SYSTEM
+Step1: As we run the application home window appears 
+Like this.
+ 
+Here we need to select any table for arriving customers.
+Let us consider we pressed table 5 button.
+
+Step2:Second window appears as follows.
+
+ 
+Here is the menu card and variety dishes offered by our restaurant.
+If we want to order any dish we need to mention its quantity in the text fields provided respectively.
+After taking the order window looks like below. 
+Step 3:We calculate the total of all the dishes ordered by the customer .As soon as we click total button pop up window shows up like below.
+ 
+When we click on ok button total gets generated as follows.
+ 
+Step 4:Meanwhile other customers visit our restaurant so we need to accommodate them in other tables, so we 
+Press back button and first window appears .Similar process is followed for other customers too.   
+step 5:Now if we click button of table 5 again diologue 
+
+ 
+box appears like above saying table is already filled.As
+soon as we click ok previous orders of table 1 should show up and we take any further orders.
+ 
+Similarly we accommodate all the customer who visits our restaurant.
+If we press table 5 for the second time diologue box appears like  
+Step 6:As we click on ok button we will be directed  to table 5 orders and as soon as we click on receipt button , receipt  appears. 
+
+
+
+
+
+
+
+
+Step 7:Reset the values and ask the customer to give feedback.
+ 
+
+
+
+
+
+
+
+
+
+
+Step8: By clicking ok button u will be redirected to tables window.
+
+
+
+ 
+
+
+LIMITATIONS:
+1) We need to provide 0 as quantity value if we don’t want to order it, as a result we should display dishes we have not ordered and bill them as zero.
+2) As we are navigating from one window to other window data is lost.
